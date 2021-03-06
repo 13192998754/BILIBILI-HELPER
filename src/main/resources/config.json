@@ -5,5 +5,5 @@
   "devicePlatform": "ios",
   "coinAddPriority": 1,
   "skipDailyTask": 0,
-  "userAgent": "mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/63.0.3239.132 safari/537.36"
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1"
 }
